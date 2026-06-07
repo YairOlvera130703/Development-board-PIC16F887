@@ -14,7 +14,7 @@ The board provides easy access to all GPIO pins, modernizes power delivery with 
 ## 📸 Board 3D View
 
 <p align="center">
-  <img src="image_3baa8a.png" alt="3D View of the PIC16F887 Development Board" width="500">
+  <img src="3D-DESIGN.png" alt="3D View of the PIC16F887 Development Board" width="500">
 </p>
 
 ## ✨ Features
@@ -24,7 +24,8 @@ The board provides easy access to all GPIO pins, modernizes power delivery with 
 * **Programming Interface:** 6-pin ICSP header (LVP, PGC, PGD, GND, VCC, MCLR) located at the top for easy access.
 * **Oscillator:** On-board external crystal oscillator.
 * **I/O Access:** Extensive pin breakouts along the sides via standard 2.54mm pitch headers, providing access to PORTA, PORTB, PORTC, PORTD, and PORTE, along with extra GND and 5V pins.
-* **On-board Peripherals:** * 1x Dedicated `RESET` push button.
+* **On-board Peripherals:**
+  * 1x Dedicated `RESET` push button.
   * 3x User-programmable push buttons connected to pins **RC0**, **RC1**, and **RC2**.
   * 6x User-programmable indicator LEDs connected to pins **RD0** through **RD5**.
 
