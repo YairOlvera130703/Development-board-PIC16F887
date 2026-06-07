@@ -2,7 +2,6 @@
 
 ![Hardware](https://img.shields.io/badge/Hardware-EasyEDA-blue)
 ![Microcontroller](https://img.shields.io/badge/MCU-PIC16F887-red)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 A custom development and prototyping board based on the Microchip **PIC16F887** microcontroller. This board is designed to facilitate rapid prototyping, testing, and hardware-software integration for embedded systems projects.
 
