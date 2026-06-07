@@ -24,16 +24,7 @@ The board provides easy access to all GPIO pins, integrates essential power circ
 
 ## 🛠️ Hardware Design (EasyEDA)
 
-The project was developed in EasyEDA. You can view, clone, or edit the project directly through the EasyEDA web editor.
-
-* **EasyEDA Project Link:** [Insert your EasyEDA public project link here]
-
-### Schematics and PCB Viewer
-[Optional: Insert a screenshot of your Schematic here]
-`![Schematic](images/schematic.png)`
-
-[Optional: Insert a screenshot of your 3D PCB view here]
-`![3D PCB](images/pcb_3d.png)`
+The project was developed in EasyEDA. 
 
 ## 📁 Repository Structure
 
